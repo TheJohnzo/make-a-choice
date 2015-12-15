@@ -1,0 +1,53 @@
+.threshold_active {
+	font-weight: bold;
+	font-size: 18px;
+}
+.side-div {
+	width: 48%;
+	float: left;
+	background-color: #f2f2f2;
+	min-height: 500px;
+	border: 1px solid black;
+	margin-left: 10px;
+}
+.left {
+}
+.right {
+	background-color: #CCCCCC;
+}
+.description {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 25px;
+}
+.options-ul {
+	list-style-type: none;
+	margin-top: 25px;
+}
+.options-ul li {
+	margin-bottom: 25px;
+}
+.danger {
+	color: orange;
+	font-weight: bold;
+}
+.dead {
+	color: red;
+	font-weight: bold;
+}
+.asset-li {
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.choose {
+	min-width: 125px;
+}
+.large-text {
+	font-size: 18px;
+}
+.small-text {
+	font-size: 11px;
+	color: grey;
+}
