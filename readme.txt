@@ -12,10 +12,10 @@ Mal has:
 Game mechanics are over simplified for now, but the concept of the game is in place. 
 
 TODO
--Get all game data from server side app.  (Likely use Laravel.)
--Add many more scenarios
+-COMPLETED Get all game data from server side app.  (Likely use Laravel.)
+-Add many more scenarios to the SQLite database
 -Have some scenarios trigger the "desireable" trait on each character.
--Have better means of recouperating fatigue.
+-Design better means of recouperating fatigue.
 -Track money, since that is vital to keep the ship running.
 -Consider adding Serenity as a "character", instead of fatigue, would be hull damage or remaining fuel.
 -Consider adding a combat system, some starter ideas:
